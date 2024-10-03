@@ -52,12 +52,6 @@ PowerBI was utilized to create interactive visualizations based on the insights 
 
 Visualizations can be found in the `/visualizations` folder.
 
-## Exports
-Summarized reports and insights were exported for easy reference. These include:
-- A CSV summary report detailing gross revenues by company and year.
-  
-The exported files can be found in the `/exports` folder.
-
 ## How to Use This Repository
 1. Clone the repository to your local machine:
    ```bash
