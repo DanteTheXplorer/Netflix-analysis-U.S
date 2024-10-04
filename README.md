@@ -13,7 +13,10 @@ The dataset consists of information about movies available on Netflix, including
 - **Budget**: The budget for the  production. 
 
 - **Gross**: The total earnings from the movie.
-
+- **Directors**: The directors of the various movies. 
+- **Writers**: The movie writers. 
+- - **Stars**: The main star of each movie. 
+    
 ### Data Source
 - The data was sourced from Kaggle. 
 ## Data Cleaning
