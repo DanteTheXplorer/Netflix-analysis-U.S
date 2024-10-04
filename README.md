@@ -41,7 +41,10 @@ SQL queries were executed to extract meaningful insights from the cleaned datase
 3. **Genre Trends**:
    - Insights into the popularity of different genres over the years, with respect to its revenue generation. 
 
-4. **Decade Movie Release Trends**:
+4. **Total Production**:
+   - Insights into the total production of movies by various companies per year for four decades. 
+
+5. **Decade Movie Release Trends**:
    - A breakdown of how many movies were released each decade over the past four decades.
 
 The SQL queries used for this analysis can be found in the `/sql` folder.
